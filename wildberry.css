@@ -27,7 +27,7 @@
     
 }
 html.theme-light::before {
-    content: "This is a dark mode theme. Maybe find a good light mod e theme lol";
+
     font-family: Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;
     color: var(--wildberry-primary);
     text-align: center;
