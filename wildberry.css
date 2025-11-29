@@ -26,16 +26,7 @@
     --wildberry-scrollbar-thumb: var(--wildberry-secondary-alt);
     
 }
-html.theme-light::before {
-    content: "This is a dark mode theme. Maybe find a good light mod e theme lol";
-    font-family: Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;
-    color: var(--wildberry-primary);
-    text-align: center;
-    position: absolute;
-    z-index: 10001;
-    right: 0;
-    left: 0;
-}
+
 .theme-dark {
     --background-primary: var(--wildberry-primary);
     --background-secondary: var(--wildberry-secondary);
